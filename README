@@ -1,2 +1,4 @@
 Esto es para probar Git en todo su explendor.
 Es para hacer pruebas de commits de branchs y todo lo que se me vaya ocurriendo.
+Lo ideal para volver después de hacer un commit es
+git reset --soft HEAD~1
